@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "description":"Milestone 2", 
+        "category": "urgent",
+        "Due-Date" : "4/28/23"
+    },
+    {
+        "id" : 2,
+        "description":"Milesone 3", 
+        "category": "urgernt",
+        "Due-Date" : "4/04/23"
+    },
+    {
+        "id" : 3,
+        "description":"Create math app for students using animations", 
+        "category": "non-urgent",
+        "Due-Date" : "12/31/24"
+    },
+    {
+        "id" : 4,
+        "description":"Learn Go-Lang for 2024 internship", 
+        "category": "non-urgent",
+        "Due-Date" : "5/01/24"
+    },
+    {
+        "id" : 5,
+        "description":"Learn hpw to implement animations", 
+        "category": "semi-urgent",
+        "Due-Date" : "12/31/23"
+    },
+    {
+        "id" : 6,
+        "description":"Pack and move stuff for end of semester", 
+        "category": "urgent",
+        "Due-Date" : "5/07/23"
+    },
+    {
+        "id" : 7,
+        "description":"Register for Fall classes", 
+        "category": "urgent",
+        "Due-Date" : "5/08/24"
+    },
+    {
+        "id" : 8,
+        "description":"Get supplies for summer courses", 
+        "category": "semi-urgent",
+        "Due-Date" : "5/14/24"
+    }
+]

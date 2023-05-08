@@ -1,0 +1,30 @@
+    THE PROJECT HERE ML2_UPDATE
+
+MAKE SURE YOU INSTALL ALL THE DEPEDENCIES BEFORE YOU START THIS
+
+
+
+firebase v9.
+ - able to create a new user and login if you were a use before
+
+mongodb
+- made an integration using my own authkey.but the data is still alive
+- you can find the integration in the server folder/db/connect.js
+ - the
+
+ api - for fetching and pushing data
+
+ pagination
+ - created a backend pagination in my api
+ - basically the limit of data access
+ - and also the page format of the data
+ - my data was limited to 5 only but you can change to your own will
+ - you can find the code server/routers
+
+ search
+ - get the data that is the to do that have been stored in the mongodb
+- the search bar is in the search
+
+----------
+
+

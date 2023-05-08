@@ -1,0 +1,12 @@
+.task-list{
+
+}
+.search-bar{
+    height: 1.5rem;
+    width: 50%;
+    margin-top: 40px;
+    padding: 10px;
+    margin: 20px;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
